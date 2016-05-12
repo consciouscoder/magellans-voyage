@@ -1,0 +1,26 @@
+
+{
+  "name": "magallen",
+  "version": "1.0.0",
+  "description": "magallens voyage",
+  "main": "seville.html",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "morgan": "^1.7.0",
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasC3/RefactorU.git"
+  },
+  "author": "dnt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomasC3/RefactorU/issues"
+  },
+  "homepage": "https://github.com/ThomasC3/RefactorU#readme"
+}
